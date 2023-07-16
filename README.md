@@ -10,3 +10,8 @@ sonrasında sub program aldığı bilgilere göre vsam dosyasında işlem yapıp
 ana program aldığı bilgilerle bir output dosyası oluşturacak.
 * Vsam dosyamız hayali bir hesap bilgileri tutan dosya
 * Qsam input dosyamız ise bu dosyadaki hesapların hesap numaralarını ve bu hesaplara yapılacak işlemlerin olduğu dosya
+
+## İçindekiler
+* PBFINAL  = Program Batch Final anlamına gelen ana programımın cbl dosyası
+* PBEGIDX  = Ana programımın bağlandığı sub programımın cbl dosyası
+* PBFINALJ = Bu programları tetikleyen JCL dosyam
