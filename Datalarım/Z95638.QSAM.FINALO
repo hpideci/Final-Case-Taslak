@@ -1,0 +1,23 @@
+READ-10001-840-rc:00-The data read successfully.   -MEHMET         -MEHMET         -YILMAZ         -YILMAZ
+DELT-10001-949-rc:00-The acc deleted successfully. -MEHMET         -               -YILMAZ         -
+READ-30001-978-rc:23-There is no account.          -               -               -               -
+UPDT-10001-978-rc:00-The data updated successfully.-M E H M E T    -MEHMET         -YILMAZ         -YILMEZ
+READ-13002-949-rc:23-There is no account.          -               -               -               -
+DELT-10002-840-rc:00-The acc deleted successfully. -MUSTAFA        -               -YILMAZ         -
+READ-10002-840-rc:23-There is no account.          -               -               -               -
+READ-10003-840-rc:00-The data read successfully.   -AHMET          -AHMET          -COPCU          -COPCU
+READ-10003-949-rc:00-The data read successfully.   -A H M E T      -A H M E T      -COPCU          -COPCU
+READ-10003-978-rc:00-The data read successfully.   -AHMET          -AHMET          -COPCU          -COPCU
+UPDT-10003-949-rc:00-The data updated successfully.-A H M E T      -AHMET          -COPCU          -COPCU
+UPDT-20004-840-rc:00-The data updated successfully.-B E R Z A N    -BERZAN         -KEMAL          -KIMEL
+WRIT-20005-949-rc:00-Added new acc successfully.   -               -H U S N U      -               -PIDECI
+WRIT-20005-949-rc:22-New acc could not add.        -               -H U S N U      -               -PIDECI
+UPDT-20004-978-rc:00-The data updated successfully.-BERZAN         -BERZAN         -KEMAL          -KIMEL
+DELT-41377-840-rc:00-The acc deleted successfully. -SINA EREN      -               -OZBAYRAM       -
+READ-41377-840-rc:23-There is no account.          -               -               -               -
+WRIT-42377-949-rc:00-Added new acc successfully.   -               -H U S N U      -               -PIDECI
+READ-42377-949-rc:00-The data read successfully.   -H U S N U      -H U S N U      -PIDECI         -PIDECI
+UPDT-42377-949-rc:00-The data updated successfully.-H U S N U      -HUSNU          -PIDECI         -PIDICI
+READ-42377-949-rc:00-The data read successfully.   -HUSNU          -HUSNU          -PIDICI         -PIDICI
+UPDT-41377-978-rc:00-The data updated successfully.-SINA EREN      -SINAEREN       -OZBAYRAM       -OZBEYREM
+DELT-41377-978-rc:00-The acc deleted successfully. -SINAEREN       -               -OZBEYREM       -
